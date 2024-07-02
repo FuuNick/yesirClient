@@ -13,7 +13,7 @@ function App() {
     return (
         <div className="App">
             <header className="App-header">
-                <h1>{message}</h1>
+                <h1>{message} MANTAP</h1>
             </header>
         </div>
     );
